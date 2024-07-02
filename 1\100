@@ -11,4 +11,3 @@ Pet_name = input("Whats your pet name ?\n")
 Band_name =print("Your Band Name Could be "+(city+" "+Pet_name))
 
 #5. Make sure the input cursor shows on a new line:
-
